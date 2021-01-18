@@ -1,7 +1,7 @@
-Hello! I build website with React JS where you can find any image
+Hello! Welcome to website where you can find any image
 
-Tech stuck used
-JavaScript
+I build this project using following technologies:
+
 React JS (based on hooks)
 HTML/CSS/SASS
 REST API
