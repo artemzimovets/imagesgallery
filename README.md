@@ -1,4 +1,4 @@
-Hello! Welcome to website where you can find any image
+Hello! Welcome to website where you can find any movie
 
 I build this project using following technologies:
 
