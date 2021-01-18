@@ -6,5 +6,5 @@ React JS (based on hooks)<br/>
 HTML/CSS/SASS<br/>
 REST API<br/>
 
-Feel free to contact me with any question artemzimovets@gmail.com
+Feel free to contact me with any questions artemzimovets@gmail.com
 
